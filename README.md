@@ -1,4 +1,4 @@
-# Keyboard
+# Keyboard-o!
 
 This is a hot swappable 84-keys keyboard with an OLED screen. It has Raspberry Pi Pico W as its MCU. Its a cool project. Making my own keyboard, I could choose whether I want the switches to be linear, tactile or clicky, what colour do I want them and keycaps to be. I chose linear because they are quiter compared to clicky. For colours, I decided to do black. That's why everything, including the PCB, is black or in shades of black.
 
