@@ -6,7 +6,7 @@ This is a hot swappable 84-keys keyboard with an OLED screen. It has Raspberry P
 
 This is the schematic for the keyboard. It has a 16 x 6 matrix for the switches, a symbol for the OLED and the Raspberry Pi pico W.
 
-![schematic](schematic.png)
+![schematic](assets/schematic.png)
 
 ### Switches
 
