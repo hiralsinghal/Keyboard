@@ -77,6 +77,10 @@ For the items link, please go to [BOM](BOM.csv).
 
 ## Zine
 
+This was designed in Figma.
+
+![zine](assets/zine.png)
+
 ## Why did I make this?
 
 I have always wanted a compact keyboard for my desk but with most of the functionality. Making a 75% keyboard fulfils that intention. Everything is custom about it. I can change the firmware whenever I want, swap out the switches or keycaps. It was a fun project.
